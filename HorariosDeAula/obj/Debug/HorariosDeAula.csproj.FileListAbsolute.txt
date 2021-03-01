@@ -1,0 +1,13 @@
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\bin\Debug\HorariosDeAula.exe.config
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\bin\Debug\HorariosDeAula.exe
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\bin\Debug\HorariosDeAula.pdb
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\obj\Debug\HorariosDeAula.csprojAssemblyReference.cache
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\obj\Debug\HorariosDeAula.Form1.resources
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\obj\Debug\HorariosDeAula.Form2.resources
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\obj\Debug\HorariosDeAula.Form3.resources
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\obj\Debug\HorariosDeAula.Form4.resources
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\obj\Debug\HorariosDeAula.Properties.Resources.resources
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\obj\Debug\HorariosDeAula.csproj.GenerateResource.cache
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\obj\Debug\HorariosDeAula.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\obj\Debug\HorariosDeAula.exe
+C:\Users\Gustavo\Desktop\Horario\Horario\HorariosDeAula\obj\Debug\HorariosDeAula.pdb
